@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gnomondigital
+- 👋 Hi, I’m @gnomondigital
 - 👀 I’m interested in AI Platform
 - 📫 How to reach me contact@gnomondigital.com
 
